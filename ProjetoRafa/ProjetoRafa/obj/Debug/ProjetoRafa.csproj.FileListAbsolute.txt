@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\bin\Debug\ProjetoRafa.exe.config
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\bin\Debug\ProjetoRafa.exe
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\bin\Debug\ProjetoRafa.pdb
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\obj\Debug\ProjetoRafa.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\obj\Debug\ProjetoRafa.Form1.resources
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\obj\Debug\ProjetoRafa.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\obj\Debug\ProjetoRafa.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\obj\Debug\ProjetoRafa.exe
+c:\users\aluno\documents\visual studio 2017\Projects\ProjetoRafa\ProjetoRafa\obj\Debug\ProjetoRafa.pdb
